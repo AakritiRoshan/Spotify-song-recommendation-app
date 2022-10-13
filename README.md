@@ -4,7 +4,7 @@ Obtains audio features of songs such as acousticness, danceability, energy, etc.
 
 The data is put into a [Pandas](https://pandas.pydata.org/) DataFrame which is then plotted using Pandas Chart Visualization. 
 
-## Example Plot 
+## Example Plot:
 
 Below shows a plot of features that What's The Use? by Mac Miller has based off the API. 
 
